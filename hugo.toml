@@ -1,4 +1,4 @@
 baseURL = 'https://seosaurus.fr/'
 languageCode = 'en-us'
 title = 'Mon super site'
-theme = 'PaperMod'
+theme = 'ananke'
