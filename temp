@@ -1,6 +1,6 @@
-[![Deploy Hugo site to Pages](https://github.com/Thaalmor2804/seosaurus/actions/workflows/hugo.yaml/badge.svg)](https://github.com/Thaalmor2804/seosaurus/actions/workflows/hugo.yaml)
+Bien sûr, voici comment vous pouvez ajouter l'information sur le déploiement automatique du site à chaque push dans la branche principale via GitHub Actions :
 
-
+```markdown
 # SeoSaurus Hugo Website
 
 Ce dépôt contient le code source du site web SeoSaurus, construit avec Hugo. SeoSaurus est un outil puissant pour l'optimisation des moteurs de recherche (SEO), conçu pour aider les entreprises à améliorer leur visibilité en ligne.
@@ -10,13 +10,13 @@ Ce dépôt contient le code source du site web SeoSaurus, construit avec Hugo. S
 Pour exécuter localement le site Hugo SeoSaurus, assurez-vous d'avoir Hugo installé sur votre système. Clonez ensuite ce dépôt :
 
 ```bash
-git clone https://github.com/Thaalmor2804/seosaurus.git
+git clone https://github.com/votre-utilisateur/SeoSaurus-Hugo-Site.git
 ```
 
 Accédez au répertoire du projet et démarrez le serveur Hugo :
 
 ```bash
-cd seosaurus
+cd SeoSaurus-Hugo-Site
 hugo server -D
 ```
 
@@ -30,9 +30,19 @@ Une version live du site est automatiquement déployée à chaque push dans la b
 
 Nous sommes reconnaissants envers les personnes qui ont contribué à ce projet. Voici la liste des contributeurs :
 
-- [Thaalmor2804](https://github.com/contributeur1)
-- [theubs](https://github.com/contributeur2)
+- [Nom du contributeur 1](https://github.com/contributeur1)
+- [Nom du contributeur 2](https://github.com/contributeur2)
+- [Nom du contributeur 3](https://github.com/contributeur3)
+
+N'hésitez pas à consulter [GUIDE_CONTRIBUTION.md](GUIDE_CONTRIBUTION.md) pour en savoir plus sur la manière de contribuer à ce projet.
 
 ## Licence
 
 Ce projet est sous licence [Licence](LICENSE) - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+---
+
+**Remarque:** Ce fichier `README.md` est un exemple et doit être adapté en fonction des détails spécifiques de votre projet SeoSaurus Hugo. Assurez-vous de mettre à jour les liens, les noms des contributeurs et toute autre information pertinente pour votre projet particulier.
+```
+
+N'oubliez pas d'ajouter ou de créer un fichier `GUIDE_CONTRIBUTION.md` s'il n'existe pas déjà pour fournir des directives spécifiques sur la manière de contribuer au projet.
