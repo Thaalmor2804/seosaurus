@@ -1,0 +1,1 @@
+[![Deploy Hugo site to Pages](https://github.com/Thaalmor2804/seosaurus/actions/workflows/hugo.yaml/badge.svg)](https://github.com/Thaalmor2804/seosaurus/actions/workflows/hugo.yaml)
