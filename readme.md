@@ -30,8 +30,8 @@ Une version live du site est automatiquement déployée à chaque push dans la b
 
 Nous sommes reconnaissants envers les personnes qui ont contribué à ce projet. Voici la liste des contributeurs :
 
-- [Thaalmor2804](https://github.com/contributeur1)
-- [theubs](https://github.com/contributeur2)
+- [Thaalmor2804](https://github.com/Thaalmor2804)
+- [theubs](https://github.com/theubs)
 
 ## Licence
 
