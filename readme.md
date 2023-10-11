@@ -10,13 +10,13 @@ Ce dépôt contient le code source du site web SeoSaurus, construit avec Hugo. S
 Pour exécuter localement le site Hugo SeoSaurus, assurez-vous d'avoir Hugo installé sur votre système. Clonez ensuite ce dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/SeoSaurus-Hugo-Site.git
+git clone https://github.com/Thaalmor2804/seosaurus.git
 ```
 
 Accédez au répertoire du projet et démarrez le serveur Hugo :
 
 ```bash
-cd SeoSaurus-Hugo-Site
+cd seosaurus
 hugo server -D
 ```
 
