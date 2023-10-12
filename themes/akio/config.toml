@@ -17,41 +17,48 @@ paginate = 5
 # Main Menu
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Accueil"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Mes services"
+    url = "/messervices/"
     weight = 2
-
-  [[menu.main]]
-    name = "Work"
-    url = "/works/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Writing"
-    url = "/posts/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Pages"
-    weight = 5
     hasChildren = true
 
   [[menu.main]]
-    parent = "Pages"
-    name = "Contact"
-    url = "/contact/"
+    parent = "Mes services"
+    name = "Rédaction de contenu"
+    url = "/redactiondecontenu/"
     weight = 1
 
   [[menu.main]]
-    parent = "Pages"
-    name = "Elements"
-    url = "/elements/"
-    weight = 2
+    parent = "Mes services"
+    name = "Stratégie de communication"
+    url = "/stratégiedecommunication/"
+    weight = 1
+
+  [[menu.main]]
+    parent = "Mes services"
+    name = "Community management"
+    url = "/communitymanagement/"
+    weight = 1
+    
+  [[menu.main]]
+    name = "Réalisations"
+    url = "/réalisations/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
 
 
   #-------------------------------
