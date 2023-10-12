@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Akio"
+languageCode = "fr"
+title = "SEOsaurus"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 5
 
 
 [params]
   logo = "" # You can add own logo. For example "/images/logo.png".
-  description = "Creative Portfolio Theme for Hugo"
+  description = "SEOsaurus, webmarketing consulting."
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
