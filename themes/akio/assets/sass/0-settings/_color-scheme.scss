@@ -8,28 +8,35 @@
   --light-blue: #afB5bd;
   --blue-gray: #687385;
   --gray: #e0e0e0;
-  --dark: #080227;
+  // Mes couleurs :   
+  --dark-blue: #142A52;
+  --white: #fff;
+  --light-beige: #FEFDE9;
+  --yellow: #F9D26B;
+  --light-green: #93D0A7;
+  --light-pink: #F8918B;
+  
 
   // Background Color
-  --background-color: var(--white);
-  --background-alt-color: var(--light-gray);
+  --background-color: var(--light-beige);
+  --background-alt-color: var(--light-beige);
 
   // Body Color
-  --text-color: var(--dark);
-  --text-alt-color: var(--blue-gray);
-  --text-alt-color-2: var(--light-blue);
+  --text-color: var(--dark-blue);
+  --text-alt-color: var(--dark-blue);
+  --text-alt-color-2: var(--dark-blue);
 
   // Heading
-  --heading-font-color: var(--dark);
+  --heading-font-color: var(--dark-blue);
 
   // Link
-  --link-color: var(--dark);
-  --link-color-hover: var(--dark);
+  --link-color: var(--light-green);
+  --link-color-hover: var(--light-green);
 
   // Button
-  --button-color: var(--white);
-  --button-background-color: var(--primary-color);
-  --button-background-hover: #4035c8;
+  --button-color: var(--light-beige);
+  --button-background-color: var(--dark-blue);
+  --button-background-hover: #23488B;
 
   // Border
   --border-color: var(--gray);
@@ -62,7 +69,16 @@
   --light-gray: #f0f0f0;
   --gray: #9e9e9e;
   --dark: #111016;
+ 
+  // Mes couleurs :   
+  --dark-blue: #142A52;
+  --white: #fff;
+  --light-beige: #FEFDE9;
+  --yellow: #F9D26B;
+  --light-green: #93D0A7;
+  --light-pink: #F8918B;
 
+  
   // Background Color
   --background-color: var(--dark);
   --background-alt-color: #1d1d23;
