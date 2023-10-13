@@ -80,33 +80,33 @@
 
   
   // Background Color
-  --background-color: var(--dark);
+  --background-color: var(--dark-blue);
   --background-alt-color: #1d1d23;
 
   // Body Color
-  --text-color: var(--gray);
-  --text-alt-color: var(--gray);
-  --text-alt-color-2: var(--gray);
+  --text-color: var(--light-beige);
+  --text-alt-color: var(--light-beige);
+  --text-alt-color-2: var(--light-beige);
 
   // Heading
-  --heading-font-color: var(--light-gray);
+  --heading-font-color: var(--light-beige);
 
   // Link
-  --link-color: var(--light-gray);
-  --link-color-hover: var(--light-gray);
+  --link-color: var(--yellow);
+  --link-color-hover: var(--yellow);
 
   // Button
   --button-color: var(--white);
-  --button-background-color: var(--primary-color);
-  --button-background-hover: #1c5e67;
+  --button-background-color: var(--light-green);
+  --button-background-hover: #73A383;
 
   // Border
   --border-color: #252629;
   --border-alt-color: #080b12;
 
   // Table
-  --th-color: #18181d;;
-  --tr-color: #080b12;
+  --th-color: #FEFDE9;;
+  --tr-color: #FEFDE9;
 
   // Syntax Highlighting
   --syntax-highlighting-background: #080b12;
