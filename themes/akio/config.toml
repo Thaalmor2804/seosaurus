@@ -29,8 +29,8 @@ paginate = 5
 
   [[menu.main]]
     parent = "Mes services"
-    name = "Rédaction de contenu"
-    url = "/redactiondecontenu/"
+    name = "Référencement SEO"
+    url = "/referencementseo/"
     weight = 1
 
   [[menu.main]]
@@ -38,7 +38,13 @@ paginate = 5
     name = "Stratégie de communication"
     url = "/stratégiedecommunication/"
     weight = 1
-
+    
+  [[menu.main]]
+    parent = "Mes services"
+    name = "Création de contenu (prints)"
+    url = "/creationdecontenu/"
+    weight = 1
+    
   [[menu.main]]
     parent = "Mes services"
     name = "Community management"
