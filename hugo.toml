@@ -53,7 +53,7 @@ weight = 3
 
 [[menu.main]]
 name = "Réalisations"
-url = "/works/"
+url = "/realisations/"
 weight = 3
 
 [[menu.main]]
