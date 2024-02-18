@@ -57,7 +57,7 @@ weight = 2
 #-------------------------------
 # Author Settings
 [params.author]
-author__name = "Jason Hill"
+author__name = "Noah Sturtzer"
 author__bio = "Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
 author__avatar = "https://via.placeholder.com/400x400"
 
