@@ -188,8 +188,8 @@ testimonial__description = ""
 name = "TlemCloud"
 image = "images/tlem_logo.png"
 designation = "Infrastructure Serrvices"
-link = "https://twitter.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+link = "https://cloud.tlem.be/"
+content = "Un grand merci à SeoSaurus pour leur expertise en SEO. Leur travail a considérablement renforcé notre présence en ligne chez TlemCloud. Professionnels et efficaces, nous recommandons vivement leurs services."
 
 [[params.testimonial_item]]
 name = "Carla Rosser"
