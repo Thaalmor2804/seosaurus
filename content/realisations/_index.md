@@ -1,4 +1,4 @@
 ---
 title: Réalisations
-description: Akio blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 ---
