@@ -8,7 +8,7 @@ paginate = 5
 
 
 [params]
-logo = "/images/logo_seosaurus.png" # You can add own logo. For example "/images/logo.png".
+logo = "/images/logo_seosaurus.png" # You can add own logo. For example "/images/tlem_logo.png".
 description = "SEOsaurus, webmarketing consulting."
 color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -185,9 +185,9 @@ testimonial__title = "Clients"
 testimonial__description = ""
 
 [[params.testimonial_item]]
-name = "Hanna Septimus"
-image = "https://via.placeholder.com/400x400"
-designation = "Product Designer"
+name = "TlemCloud"
+image = "images/tlem_logo.png"
+designation = "Infrastructure Serrvices"
 link = "https://twitter.com/"
 content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
