@@ -9,7 +9,7 @@ paginate = 5
 
 [params]
 logo = "/images/logo_seosaurus.png" # You can add own logo. For example "/images/logo.png".
-description = "Creative Portfolio Theme for Hugo"
+description = "SEOsaurus, webmarketing consulting."
 color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 #-------------------------------
@@ -117,7 +117,7 @@ link = "https://vimeo.com"
 # Hero Settings
 [params.hero]
 enable = true
-hero__title = "Hey everyone, I’m Jason Hill"
+hero__title = "Hey everyone, I’m Noah Sturtzer"
 hero__description = "Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
 hero__image = "https://via.placeholder.com/1200x800"
 
@@ -264,7 +264,7 @@ footer__background__image = "https://via.placeholder.com/1920x1080"
 #-------------------------------
 # Contact Settings
 [params.contact]
-contact__email = "your@email.com" # Add your form_id
+contact__email = "noah@seosaurus.fr" # Add your form_id
 
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
