@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://seosaurus.fr/"
+baseURL = "https://www.seosaurus.fr/"
 languageCode = "fr-fr"
 title = "Seosaurus"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
