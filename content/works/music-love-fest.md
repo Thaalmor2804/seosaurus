@@ -1,10 +1,10 @@
 ---
-title: Music love fest
-description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
+title: New Art Coffee
+description: Photographie, supports de communications et gestions des réseaux sociaux
 category: Print Design
-date: 2022-01-10 08:01:35 +0300
-client: Music Fest
-role: Graphic Designer
+date: 2023-08-15 08:01:35 +0300
+client: New Art Coffee
+role: Graphiste & Community Manager
 image: 'https://via.placeholder.com/1200x800'
 image_caption: 'Photo by [Freepik](https://via.placeholder.com/1200x800)'
 ---
