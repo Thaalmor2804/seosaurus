@@ -31,28 +31,29 @@ parent = "Mes services"
 name = "Référencement SEO"
 url = "/referencementseo/"
 weight = 1
+hasChildren = true
 
 [[menu.main]]
 parent = "Mes services"
 name = "Stratégie de communication"
-url = "/stratégiedecommunication/"
+url = "/strategiedecommunication/"
 weight = 1
 
 [[menu.main]]
 parent = "Mes services"
 name = "Création de contenu (prints)"
 url = "/creationdecontenu/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 parent = "Mes services"
 name = "Community management"
 url = "/communitymanagement/"
-weight = 1
+weight = 3
 
 [[menu.main]]
 name = "Réalisations"
-url = "/réalisations/"
+url = "/realisations/"
 weight = 3
 
 [[menu.main]]
