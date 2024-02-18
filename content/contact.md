@@ -15,6 +15,4 @@ Je suis impatient de discuter de ton projet et de t'aider à atteindre tes objec
 ## Comment me contacter :
 
 - **E-mail** : [noah@seosaurus.fr](mailto:noah@seosaurus.fr)
-- **Téléphone** : +33 6 26 12 87 62
-- **Réseaux Sociaux** : Tu peux également me contacter sur [Facebook](https://www.facebook.com/seosauruswebmarketing), [LinkedIn](https://www.linkedin.com/in/noahsturtzer), ou [Instagram](https://www.instagram.com/seosauruswebmarketing).
-- **Formulaire de Contact** : Remplis le formulaire ci-dessous, et je te répondrai dans les plus brefs délais !
+- **Réseaux Sociaux** : Tu peux également me contacter sur [LinkedIn](https://www.linkedin.com/in/noahsturtzer)
