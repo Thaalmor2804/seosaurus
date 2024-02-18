@@ -31,7 +31,7 @@ parent = "Mes services"
 name = "Référencement SEO"
 url = "/referencementseo/"
 weight = 1
-hasChildren = true
+#hasChildren = true
 
 [[menu.main]]
 parent = "Mes services"
@@ -251,7 +251,7 @@ content = "Keeping your eye on the ball while performing a deep dive on the star
 #-------------------------------
 # Blog Section
 [params.blog]
-enable = true
+enable = false
 blog__title = "Writing"
 blog__description = ""
 
@@ -274,7 +274,7 @@ contact__email = "noah@seosaurus.fr" # Add your form_id
 #-------------------------------
 # Comment Section (Disqus)
 [params.disqus]
-enable = true
+enable = false
 disqusShortname = "anvod-studio-test" # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
