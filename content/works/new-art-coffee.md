@@ -5,11 +5,13 @@ category: Print Design
 date: 2023-08-15 08:01:35 +0300
 client: New Art Coffee
 role: Graphiste & Community Manager
-image: 'https://via.placeholder.com/1200x800'
-image_caption: 'Photo by [Freepik](https://via.placeholder.com/1200x800)'
+image: 'D:\seosaurus\seosaurus\content\works\images\new-art-coffee\newartcoffee-logo.png'
+image_caption: ''
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
+Ici, Noah, à ton service pour faire de ta marque le T-Rex de son domaine. Ici pour booster ta présence en ligne avec stratégie et créativité. Pas de bla-bla, juste des stratégies concrètes et des contenus percutants. Que ce soit pour définir ta stratégie sur les réseaux sociaux ou créer des contenus SEO qui captent l'attention, je m'assure que ta marque se démarque.
+
+Explore mon portefolio pour voir comment on peut propulser ensemble ton projet vers de nouveaux sommets. Prêt à laisser une empreinte digitale indélébile ?
 
 <div class="gallery-box">
   <div class="gallery">
