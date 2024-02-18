@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "https://seosaurus.fr/"
 languageCode = "fr-fr"
-title = "Akio"
+title = "Seosaurus"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 5
 
