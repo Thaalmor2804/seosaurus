@@ -265,7 +265,7 @@ footer__background__image = "https://via.placeholder.com/1920x1080"
 #-------------------------------
 # Contact Settings
 [params.contact]
-contact__email = "noah@seosaurus.fr" # Add your form_id
+contact__email = "xzbnrypa" # Add your form_id
 
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
