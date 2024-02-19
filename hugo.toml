@@ -72,7 +72,7 @@ weight = 5
 [params.author]
 author__name = "Noah Sturtzer"
 author__bio = "Hi, I'm Noah – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
-author__avatar = "https://via.placeholder.com/400x400"
+author__avatar = "/images/logo_seosaurus.png" #400x400
 
 # Social Links
 [[params.social]]
