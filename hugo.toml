@@ -17,7 +17,7 @@ color_scheme = "auto" # You can choose three modes auto, light, and dark. By def
 [menu]
 [[menu.main]]
 name = "Accueil"
-url = "/accueil"
+url = ""
 weight = 1
 
 [[menu.main]]
