@@ -17,7 +17,7 @@ color_scheme = "auto" # You can choose three modes auto, light, and dark. By def
 [menu]
 [[menu.main]]
 name = "Accueil"
-url = "/"
+url = "/accueil"
 weight = 1
 
 [[menu.main]]
@@ -119,8 +119,8 @@ link = "https://vimeo.com"
 [params.hero]
 enable = true
 hero__title = "Hey everyone, I’m Noah Sturtzer"
-hero__description = "Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
-hero__image = "https://via.placeholder.com/1200x800"
+hero__description = "Moi c'est Noah, je suis à votre écoute pour vous accompagner dans le rayonnement de votre marque en ligne !"
+hero__image = "static/images/NoahSturtzer-contours.jpg"
 
 
 #-------------------------------
@@ -130,34 +130,24 @@ enable = true
 logos__title = "I’ve worked with some great сompanies"
 
 [[params.logo_item]]
-name = "Google"
-link = "https://www.google.com/"
-image = "/images/google.svg"
+name = "Webvert"
+link = "https://www.webvert.fr/"
+image = "/images/logo/logo-webvert-entier.png"
 
 [[params.logo_item]]
-name = "Spotify"
-link = "https://www.spotify.com/"
-image = "/images/spotify.svg"
+name = "New Art Coffee"
+link = "https://www.newartcoffee.fr/"
+image = "/images/logo/logo-nac.png"
 
 [[params.logo_item]]
-name = "Pinterest"
-link = "https://www.pinterest.com/"
-image = "/images/pinterest.svg"
+name = "Socitety"
+link = "https://society-rouen.fr/"
+image = "/images/logo/logo-society.png"
 
 [[params.logo_item]]
-name = "Netlify"
-link = "https://www.netlify.com/"
-image = "/images/netlify.svg"
-
-[[params.logo_item]]
-name = "Apple"
-link = "https://www.apple.com/"
-image = "/images/apple.svg"
-
-[[params.logo_item]]
-name = "Adobe"
-link = "https://www.adobe.com/"
-image = "/images/adobe.svg"
+name = "Qo Creator"
+link = "https://qocreators.com/"
+image = "/images/logo/logo-qocreators.png"
 
 
 #-------------------------------
@@ -192,60 +182,32 @@ link = "https://cloud.tlem.be/"
 content = "Un grand merci à SeoSaurus pour leur expertise en SEO. Leur travail a considérablement renforcé notre présence en ligne chez TlemCloud. Professionnels et efficaces, nous recommandons vivement leurs services."
 
 [[params.testimonial_item]]
-name = "Carla Rosser"
-image = "https://via.placeholder.com/400x400"
-designation = "Statistician"
-link = "https://facebook.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+name = "Society - Bar à jeux"
+image = "/images/logo/logo-society.png"
+designation = "Bar restaurant à Rouen"
+link = "https://www.facebook.com/profile.php?id=61551876037556"
+content = "Tro bi1"
 
 [[params.testimonial_item]]
-name = "Maria Curtis"
-image = "https://via.placeholder.com/400x400"
-designation = "Team Lead"
-link = "https://twitter.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+name = "Webvert"
+image = "/images/logo/logo-webvert.png"
+designation = "Décarbonation et Réparation de sites web"
+link = "https://www.lewebvert.fr/"
+content = "text text text"
 
 [[params.testimonial_item]]
-name = "Carter Bergson"
-image = "https://via.placeholder.com/400x400"
-designation = "CEO, Founder"
-link = "https://facebook.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+name = "Qo Creators"
+image = "/images/logo/logo-qocreators.png"
+designation = "Product industrialization"
+link = "https://qocreators.com/"
+content = "text text text"
 
 [[params.testimonial_item]]
-name = "Jordyn Franci"
-image = "https://via.placeholder.com/400x400"
-designation = "Personal Trainer"
-link = "https://twitter.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-[[params.testimonial_item]]
-name = "Mira Carder"
-image = "https://via.placeholder.com/400x400"
-designation = "Data Scientist"
-link = "https://twitter.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-[[params.testimonial_item]]
-name = "Madelyn Herwitz"
-image = "https://via.placeholder.com/400x400"
-designation = "Frontend Engineer"
-link = "https://twitter.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-[[params.testimonial_item]]
-name = "Anika Schleifer"
-image = "https://via.placeholder.com/400x400"
-designation = "Fitness Director"
-link = "https://twitter.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-[[params.testimonial_item]]
-name = "Wilson Dorwart"
-image = "https://via.placeholder.com/400x400"
-designation = "Financial Manager"
-link = "https://twitter.com/"
-content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+name = "New Art Coffee"
+image = "/images/logo/logo-nac.png"
+designation = "Torréfacteur artisanal de café"
+link = "https://www.facebook.com/profile.php?id=61550863513934"
+content = "text text text"
 
 
 #-------------------------------
