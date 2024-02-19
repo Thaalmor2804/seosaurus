@@ -71,7 +71,7 @@ weight = 5
 # Author Settings
 [params.author]
 author__name = "Noah Sturtzer"
-author__bio = "Hi, I'm Noah – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
+author__bio = "Ici, l'innovation rencontre la stratégie pour propulser votre marque vers des horizons inexplorés. Prêt pour une transformation digitale durable ?"
 author__avatar = "/images/logo-image-400.png" #400x400
 
 # Social Links
@@ -118,8 +118,8 @@ link = "https://vimeo.com"
 # Hero Settings
 [params.hero]
 enable = true
-hero__title = "Hey everyone, I’m Noah Sturtzer"
-hero__description = "Moi c'est Noah, je suis à votre écoute pour vous accompagner dans le rayonnement de votre marque en ligne !"
+hero__title = "Un marketing qui fuse pour une présence en ligne qui ne s'éteint jamais !"
+hero__description = "Ici Noah, à votre service pour faire de votre marque le T-Rex de son domaine. Pas de long discours, juste des stratégies concrètes et des contenus percutants. Que ce soit pour définir votre stratégie sur les réseaux sociaux ou créer des contenus SEO qui captent l'attention, je m'assure que votre marque se démarque."
 hero__image = "/images/noahsturtzer-photo-homepage.jpg"
 
 
