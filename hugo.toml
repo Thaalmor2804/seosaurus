@@ -120,7 +120,7 @@ link = "https://vimeo.com"
 enable = true
 hero__title = "Hey everyone, I’m Noah Sturtzer"
 hero__description = "Moi c'est Noah, je suis à votre écoute pour vous accompagner dans le rayonnement de votre marque en ligne !"
-hero__image = "static/images/NoahSturtzer-contours.jpg"
+hero__image = "/images/NoahSturtzer-contours.jpg"
 
 
 #-------------------------------
