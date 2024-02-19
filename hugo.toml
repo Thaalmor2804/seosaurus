@@ -91,14 +91,14 @@ name = "Instagram"
 link = "https://instagram.com"
 
 [[params.social]]
-icon = "ion-logo-pinterest"
-name = "Pinterest"
-link = "https://pinterest.com"
+icon = "ion-logo-linkedin"
+name = "LinkedIn"
+link = "https://www.linkedin.com/in/noahsturtzer/"
 
 [[params.social]]
 icon = "ion-logo-github"
 name = "Github"
-link = "https://github.com"
+link = "https://github.com/Thaalmor2804"
 
 [[params.social]]
 icon = "ion-logo-vimeo"
