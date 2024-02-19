@@ -5,7 +5,7 @@ category: Print Design
 date: 2023-08-15 08:01:35 +0300
 client: New Art Coffee
 role: Graphiste & Community Manager
-image: '/images-works/new-art-coffee/newartcoffee-logo.png'
+image: '/images/images-works/new-art-coffee/newartcoffee-logo.png'
 image_caption: ''
 ---
 
