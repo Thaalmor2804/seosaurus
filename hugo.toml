@@ -160,11 +160,16 @@ mailchimp__button__text = "Subscribe" # Add your button text
 
 
 #-------------------------------
+# Mes services
+
+
+
+#-------------------------------
 # Work Settings
 [params.work]
-enable = false
-work__title= "Work"
-work__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
+enable = true
+work__title= "Réalisations"
+work__description= "Explorez mon portefolio pour voir comment on peut propulser ensemble votre projet vers de nouveaux sommets !"
 
 
 #-------------------------------
