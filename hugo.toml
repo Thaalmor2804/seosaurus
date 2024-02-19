@@ -72,7 +72,7 @@ weight = 5
 [params.author]
 author__name = "Noah Sturtzer"
 author__bio = "Hi, I'm Noah – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
-author__avatar = "/images/logo_seosaurus.png" #400x400
+author__avatar = "/images/logo-image-400.png" #400x400
 
 # Social Links
 [[params.social]]
@@ -120,7 +120,7 @@ link = "https://vimeo.com"
 enable = true
 hero__title = "Hey everyone, I’m Noah Sturtzer"
 hero__description = "Moi c'est Noah, je suis à votre écoute pour vous accompagner dans le rayonnement de votre marque en ligne !"
-hero__image = "/images/NoahSturtzer-contours.jpg"
+hero__image = "/images/noahsturtzer-photo-homepage.jpg"
 
 
 #-------------------------------
