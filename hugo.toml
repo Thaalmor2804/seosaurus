@@ -127,7 +127,7 @@ hero__image = "/images/noahsturtzer-photo-homepage.jpg"
 # Logos Settings
 [params.logos]
 enable = true
-logos__title = "I’ve worked with some great сompanies"
+logos__title = "J'ai travaillé avec de chouettes entreprises !"
 
 [[params.logo_item]]
 name = "Webvert"
