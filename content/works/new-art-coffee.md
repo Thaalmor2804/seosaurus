@@ -5,8 +5,8 @@ category: Print Design
 date: 2023-08-15 08:01:35 +0300
 client: New Art Coffee
 role: Graphiste & Community Manager
-image: '/images/images-works/vignettes/vignette-newartcoffee.png'
-image_caption: 'logo New Art Coffee'
+image: '/images/images-works/vignettes/vignette-nac.png'
+image_caption: 'Logo New Art Coffee'
 ---
 
 Ici, Noah, à ton service pour faire de ta marque le T-Rex de son domaine. Ici pour booster ta présence en ligne avec stratégie et créativité. Pas de bla-bla, juste des stratégies concrètes et des contenus percutants. Que ce soit pour définir ta stratégie sur les réseaux sociaux ou créer des contenus SEO qui captent l'attention, je m'assure que ta marque se démarque.
