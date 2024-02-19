@@ -119,7 +119,7 @@ link = "https://vimeo.com"
 [params.hero]
 enable = true
 hero__title = "Un marketing qui **fuse** pour une présence en ligne qui ne **s'éteint jamais** !"
-hero__description = "Ici Noah, à votre service pour faire de votre marque le T-Rex de son domaine. \ Pas de long discours, juste des stratégies concrètes et des contenus percutants. \ Que ce soit pour définir votre **stratégie** sur les réseaux sociaux ou **créer des contenus** SEO qui captent l'attention, **je m'assure que votre marque se démarque.**"
+hero__description = "Ici Noah, à votre service pour faire de votre marque le T-Rex de son domaine. Pas de long discours, juste des stratégies concrètes et des contenus percutants. Que ce soit pour définir votre **stratégie** sur les réseaux sociaux ou **créer des contenus** SEO qui captent l'attention, **je m'assure que votre marque se démarque.**"
 hero__image = "/images/noahsturtzer-photo-homepage.jpg"
 
 
