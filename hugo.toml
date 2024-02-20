@@ -22,7 +22,7 @@ weight = 1
 
 [[menu.main]]
 name = "Mes services"
-url = "/messervices/"
+url = "/messervices/mes-services.md"
 weight = 2
 hasChildren = true
 
@@ -76,34 +76,24 @@ author__avatar = "/images/logo-image-400.png" #400x400
 
 # Social Links
 [[params.social]]
-icon = "ion-logo-twitter"
-name = "Twitter"
-link = "https://twitter.com"
-
-[[params.social]]
-icon = "ion-logo-facebook"
-name = "Facebook"
-link = "https://facebook.com"
-
-[[params.social]]
-icon = "ion-logo-instagram"
-name = "Instagram"
-link = "https://instagram.com"
-
-[[params.social]]
 icon = "ion-logo-linkedin"
 name = "LinkedIn"
 link = "https://www.linkedin.com/in/noahsturtzer/"
 
 [[params.social]]
+icon = "ion-logo-facebook"
+name = "Facebook"
+link = "https://www.facebook.com/profile.php?id=61556572263770"
+
+[[params.social]]
+icon = "ion-logo-instagram"
+name = "Instagram"
+link = "https://www.instagram.com/seosaurus_webmarketing/"
+
+[[params.social]]
 icon = "ion-logo-github"
 name = "Github"
 link = "https://github.com/Thaalmor2804"
-
-[[params.social]]
-icon = "ion-logo-vimeo"
-name = "Vimeo"
-link = "https://vimeo.com"
 
 # Example of adding a new link to the footer:
 # [[params.social]]
