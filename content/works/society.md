@@ -1,9 +1,10 @@
 ---
-title: Mental health
-description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
-category: Print Design
-date: 2022-01-05 08:01:35 +0300
-role: Graphic Designer
+title: Society - Bar à jeux
+description: Stratégie de lancement, création de supports (menu, carte, flyers...), 
+category: Stratégie de communication, Design
+date: 2022-01-09 08:01:35 +0300
+client: Jazz International
+role: Stratégie 
 image: 'https://via.placeholder.com/1200x800'
 image_caption: 'Photo by [Freepik](https://via.placeholder.com/1200x800)'
 ---
@@ -12,18 +13,19 @@ Hardcover books have a stiff binding. Paperback books have cheaper, flexible cov
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Work">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Work">
+    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
+    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
   </div>
   <em>Photo by <a href="https://via.placeholder.com/1200x800" target="_blank">Freepik</a></em>
 </div>
-
 
 There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
-Publishers may produce low-cost, pre-publication copies known as galleys or 'bound proofs' for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.
+Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
+
+<p><iframe src="https://www.youtube.com/embed/NpEaa2P7qZI" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.
 
