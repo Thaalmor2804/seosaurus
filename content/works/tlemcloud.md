@@ -36,8 +36,9 @@ Chez SeoSaurus, nous sommes fiers de mener nos activités de référencement de 
 >
 > <cite>– Noah Sturtzer -Seosaurus</cite>
 ---
+## musique de qualitey
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/be/album/tele-romeo/902118118?i=902118148&l=fr-FR"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/be/playlist/work-2023/pl.u-V9D7Gl7fB9ZD952?l=fr-FR"></iframe>
 
 ---
 
