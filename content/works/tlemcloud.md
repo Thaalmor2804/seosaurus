@@ -37,6 +37,10 @@ Chez SeoSaurus, nous sommes fiers de mener nos activités de référencement de 
 > <cite>– Noah Sturtzer -Seosaurus</cite>
 ---
 
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/be/album/tele-romeo/902118118?i=902118148&l=fr-FR"></iframe>
+
+---
+
 | Avant la Collaboration avec SeoSaurus | Après la Collaboration avec SeoSaurus |
 |----------------------------------------|---------------------------------------|
 | Classement sur les Moteurs de Recherche: Faible | Classement sur les Moteurs de Recherche: Élevé |
