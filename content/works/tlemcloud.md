@@ -36,9 +36,11 @@ Chez SeoSaurus, nous sommes fiers de mener nos activités de référencement de 
 >
 > <cite>– Noah Sturtzer -Seosaurus</cite>
 ---
-## musique de qualitey
+## Musique de qualitey
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/be/playlist/work-2023/pl.u-V9D7Gl7fB9ZD952?l=fr-FR"></iframe>
+
+## Discord de qualiteyyyyyy
 
 <iframe src="https://discord.com/widget?id=1214881808517173279&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
