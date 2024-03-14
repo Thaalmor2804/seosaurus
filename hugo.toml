@@ -22,9 +22,9 @@ weight = 1
 
 [[menu.main]]
 name = "Mes services"
-url = "/messervices/mes-services.md"
+url = "/messervices/"
 weight = 2
-hasChildren = true
+#hasChildren = true
 
 [[menu.main]]
 parent = "Mes services"
