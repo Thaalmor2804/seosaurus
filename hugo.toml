@@ -27,26 +27,26 @@ weight = 1
 hasChildren = true
 
 [[menu.main]]
-#parent = "Mes services"
+parent = "Mes services"
 name = "Référencement SEO"
 url = "/messervices/referencementseo"
 weight = 1
 #hasChildren = true
 
 [[menu.main]]
-#parent = "Mes services"
+parent = "Mes services"
 name = "Stratégie de communication"
 url = "/messervices/strategiedecommunication/"
 weight = 1
 
 [[menu.main]]
-#parent = "Mes services"
+parent = "Mes services"
 name = "Création de contenu (prints)"
 url = "/messervices/creationdecontenu/"
 weight = 2
 
 [[menu.main]]
-#parent = "Mes services"
+parent = "Mes services"
 name = "Community management"
 url = "/messervices/communitymanagement/"
 weight = 3
