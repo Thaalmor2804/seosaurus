@@ -23,13 +23,13 @@ weight = 1
 [[menu.main]]
 name = "Mes services"
 url = "/messervices/"
-weight = 2
+weight = 1
 hasChildren = true
 
 [[menu.main]]
 parent = "Mes services"
 name = "Référencement SEO"
-url = "/messervices/referencementseo/"
+url = "/messervices/referencementseo"
 weight = 1
 hasChildren = true
 
