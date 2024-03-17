@@ -26,7 +26,7 @@
 
               {{ if .HasChildren }}
                 <li class="nav__item dropdown">
-                  <span class="nav__link dropdown-toggle">{{ .Name }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+                  <span class="/messervices/">{{ .Name }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
                   <div class="dropdown-menu">
                     {{ range .Children }}
                     {{ $childURL := .URL | absLangURL }}
