@@ -1,4 +1,4 @@
 ---
 title: Référencement
-description: Akio blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+description: Je crée, rédige, optimise et gère tous tes contenus pour t'aider à gagner en visibilité et en trafic. Que ce soit pour ton blog, ta newsletter, tes réseaux sociaux ou ta fiche Google My Business, SEOsaurus s'occupe de tout.
 ---

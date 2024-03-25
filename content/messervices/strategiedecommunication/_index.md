@@ -1,4 +1,4 @@
 ---
 title: Strategie de communication
-description: Akio blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+description: Je t'accompagne dans la définition de ta stratégie de communication en ligne, choisir tes canaux, pour atteindre tes objectifs. Je t'aide aussi dans la création de ton identité visuelle et rédactionnelle avec des templates, des bannières, ou miniatures.
 ---

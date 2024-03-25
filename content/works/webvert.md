@@ -1,9 +1,9 @@
 ---
-title: Music festival
-description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
-category: Music flyer
-date: 2022-01-07 08:01:35 +0300
-client: Music Festival
+title: Hackathon - Transigreen
+description: Création d'une cartographie de la transition verte dans la logistique des transports
+category: Design
+date: 2023-05-13 08:01:35 +0300
+client: Latitudes, MIX, Rouen Métropole
 role: Graphic Designer
 image: 'https://via.placeholder.com/1200x800'
 image_caption: 'Photo by [Freepik](https://via.placeholder.com/1200x800)'
